@@ -1,2 +1,2 @@
 # Data-Science-Sample-Projects
-This repo contains sample Projects for a beginner data science student.
+This repo contains sample Projects of data anlysis and cosine similarity based information tertieval system.
